@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+h1 img {
+  max-width: 468px;
+  margin-top: 20px;  
+}
+
+input {
+  display: block;
+  padding: 8px 5px;
+  margin: 5px auto;
+  border: 1px solid #000;
+  background-color: #fdfdfd;
+  border-radius: 4px;
+}
+
+button {
+  padding: 5px 8px;
+  border-radius: 4px;
+}
+
+footer {
+  position: absolute;
+  content: "";
+  bottom: 40px;
+  right: 45%;
+}
+
+.result {
+  padding: 8px;
+  border: 1px solid #000;
+  background-color: #fdfdfd;
+}

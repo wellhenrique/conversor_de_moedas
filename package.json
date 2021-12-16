@@ -1,0 +1,21 @@
+{
+  "name": "covertmoney",
+  "version": "1.0.0",
+  "description": "conversor de moeda",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "wellpunch",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jest": "^27.4.3"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
